@@ -1,2 +1,1 @@
-# block-mention-spam_discord
-멘셴테러 차단
+# 멘션테러 차단
